@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @SukhithaPr
+# 👋 Hi, I’m SukhithaPr
 👀 I’m interested in Designing<br>🌱 I’m currently learning Computer Science
 
 # 💻 Tech Stack:
